@@ -25,7 +25,7 @@ namespace BeyondOurReachModSettings
 			{
 				return disabled.Apply(xml);
 			}
-			return false;
+			return true;
 		}
 	}
 }
