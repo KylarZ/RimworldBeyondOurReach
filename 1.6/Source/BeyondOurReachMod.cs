@@ -1,7 +1,6 @@
 ﻿using Verse;
 using UnityEngine;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace BeyondOurReachModSettings
 {
@@ -10,7 +9,7 @@ namespace BeyondOurReachModSettings
 		private static Vector2 ScrollPos = Vector2.zero;
 		private readonly BeyondOurReachModSettings settings;
 		private const float ListingVerticalSpacing = 2f;
-		List<ModSettingDef> cachedDefs;
+		private List<ModSettingDef> cachedDefs;
 
 
 		public BeyondOurReachMod(ModContentPack content) : base(content)

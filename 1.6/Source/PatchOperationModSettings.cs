@@ -3,12 +3,13 @@ using Verse;
 
 namespace BeyondOurReachModSettings
 {
-#pragma warning disable CS0649
 	public class PatchOperationModSettings : PatchOperationPathed
 	{
+#pragma warning disable CS0649
 		private PatchOperation enabled;
 		private PatchOperation disabled;
 		private string modSettingDef;
+#pragma warning restore
 
 		protected override bool ApplyWorker(XmlDocument xml)
 		{
