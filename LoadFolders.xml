@@ -3,6 +3,7 @@
 	<v1.5>
 		<li>/</li>
 		<li>1.5</li>
+		<li>1.5/Common</li>
 		<li IfModActive="hol.rimputersforked">1.5/Mods/RimputersNoDBH</li>
 		<li IfModActive="joeyjoejoeshabidoo.rimputers1.4">1.5/Mods/Rimputers</li>
 		<li IfModActive="sumghai.medpod">1.5/Mods/MedPod</li>
@@ -41,6 +42,7 @@
 	<v1.6>
 		<li>/</li>
 		<li>1.6</li>
+		<li>1.6/Common</li>
 		<li IfModActive="hol.rimputersforked">1.6/Mods/RimputersNoDBH</li>
 		<li IfModActive="joeyjoejoeshabidoo.rimputers1.4">1.6/Mods/Rimputers</li>
 		<li IfModActive="sumghai.medpod">1.6/Mods/MedPod</li>
