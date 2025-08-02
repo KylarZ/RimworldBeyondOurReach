@@ -13,6 +13,7 @@
           <value>
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>MindscrewTenebral</defName>
               <label>tenebral mindscrew</label>
               <labelNoun>an tenebral mindscrew</labelNoun>
@@ -61,6 +62,7 @@
             <!-- Drill arm -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>DrillArmTenebral</defName>
               <label>tenebral drill arm</label>
               <labelNoun>an tenebral drill arm</labelNoun>
@@ -137,6 +139,7 @@
             <!-- Field hand -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>FieldHandTenebral</defName>
               <label>tenebral field hand</label>
               <labelNoun>an tenebral field hand</labelNoun>
@@ -212,6 +215,7 @@
             <!-- Hand talon -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>HandTalonTenebral</defName>
               <label>tenebral hand talon</label>
               <labelNoun>an tenebral hand talon</labelNoun>
@@ -287,6 +291,7 @@
             <!-- Elbow blade -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>ElbowBladeTenebral</defName>
               <label>tenebral elbow blade</label>
               <labelNoun>an tenebral elbow blade</labelNoun>
@@ -361,6 +366,7 @@
             <!-- Knee spike -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>KneeSpikeTenebral</defName>
               <label>tenebral knee spike</label>
               <labelNoun>an tenebral knee spike</labelNoun>
@@ -436,6 +442,7 @@
             <!-- venom fangs -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>VenomFangsTenebral</defName>
               <label>tenebral venom fangs</label>
               <labelNoun>an tenebral set of venom fangs</labelNoun>
@@ -508,6 +515,7 @@
             <!-- venom talon -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>VenomTalonTenebral</defName>
               <label>tenebral venom talon</label>
               <labelNoun>an tenebral venom talon</labelNoun>
@@ -580,6 +588,7 @@
             <!-- Neurocalculator -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>NeurocalculatorTenebral</defName>
               <label>tenebral neurocalculator</label>
               <labelNoun>an tenebral neurocalculator</labelNoun>
@@ -653,6 +662,7 @@
             <!-- Learning assistant -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>LearningAssistantTenebral</defName>
               <label>tenebral learning assistant</label>
               <labelNoun>an tenebral learning assistant</labelNoun>
@@ -726,6 +736,7 @@
             <!-- Gastro-analyzer -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>GastroAnalyzerTenebral</defName>
               <label>tenebral gastro-analyzer</label>
               <labelNoun>an tenebral gastro-analyzer</labelNoun>
@@ -796,6 +807,7 @@
             <!-- Immunoenhancer -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>ImmunoenhancerTenebral</defName>
               <label>tenebral immunoenhancer</label>
               <labelNoun>an tenebral immunoenhancer</labelNoun>
@@ -863,6 +875,7 @@
             <!-- Coagulator -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>CoagulatorTenebral</defName>
               <label>tenebral coagulator</label>
               <labelNoun>an tenebral coagulator</labelNoun>
@@ -928,6 +941,7 @@
             <!-- Healing enhancer -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>HealingEnhancerTenebral</defName>
               <label>tenebral healing enhancer</label>
               <labelNoun>an tenebral healing enhancer</labelNoun>
@@ -993,6 +1007,7 @@
             <!-- Toughskin gland -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>ToughskinGlandTenebral</defName>
               <label>tenebral toughskin gland</label>
               <labelNoun>an tenebral toughskin gland</labelNoun>
@@ -1068,6 +1083,7 @@
             <!-- Armorskin gland -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>ArmorskinGlandTenebral</defName>
               <label>tenebral armorskin gland</label>
               <labelNoun>an tenebral armorskin gland</labelNoun>
@@ -1143,6 +1159,7 @@
             <!-- Stoneskin gland -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>StoneskinGlandTenebral</defName>
               <label>tenebral stoneskin gland</label>
               <labelNoun>an tenebral stoneskin gland</labelNoun>
@@ -1218,6 +1235,7 @@
             <!-- Aesthetic shaper -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>AestheticShaperTenebral</defName>
               <label>tenebral aesthetic shaper</label>
               <labelNoun>an tenebral aesthetic shaper</labelNoun>
@@ -1285,6 +1303,7 @@
             <!-- Aesthetic nose -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>AestheticNoseTenebral</defName>
               <label>tenebral aesthetic nose</label>
               <labelNoun>an tenebral aesthetic nose</labelNoun>
@@ -1355,6 +1374,7 @@
             <!-- Reprocessor stomach -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>ReprocessorStomachTenebral</defName>
               <label>tenebral reprocessor stomach</label>
               <labelNoun>an tenebral reprocessor stomach</labelNoun>
@@ -1429,6 +1449,7 @@
             <!-- Circadian assistant -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>CircadianAssistantTenebral</defName>
               <label>tenebral circadian assistant</label>
               <labelNoun>an tenebral circadian assistant</labelNoun>
@@ -1502,6 +1523,7 @@
             <!-- Circadian half-cycler -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>CircadianHalfCyclerTenebral</defName>
               <label>tenebral circadian half-cycler</label>
               <labelNoun>an tenebral circadian half-cycler</labelNoun>
@@ -1581,6 +1603,7 @@
             <!-- Psychic sensitizer -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>PsychicSensitizerTenebral</defName>
               <label>tenebral psychic sensitizer</label>
               <labelNoun>an tenebral psychic sensitizer</labelNoun>
@@ -1657,6 +1680,7 @@
             </ThoughtDef>
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>PsychicHarmonizerTenebral</defName>
               <label>tenebral psychic harmonizer</label>
               <labelNoun>an tenebral psychic harmonizer</labelNoun>
@@ -1716,6 +1740,7 @@
             <!-- Psychic reader -->
 
             <HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+              <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
               <defName>PsychicReaderTenebral</defName>
               <label>tenebral psychic reader</label>
               <labelNoun>an tenebral psychic reader</labelNoun>

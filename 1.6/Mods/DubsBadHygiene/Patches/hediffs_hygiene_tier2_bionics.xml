@@ -13,6 +13,7 @@
 					<value>
 
 						<HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+							<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 							<defName>QuasarBladder</defName>
 							<label>kwazaari bladder</label>
 							<labelNoun>a kwazaari bladder</labelNoun>
@@ -126,6 +127,7 @@
 
 
 						<HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+							<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 							<defName>QuasarHygieneEnhancer</defName>
 							<label>kwazaari hygiene enhancer</label>
 							<labelNoun>a kwazaari hygiene enhancer</labelNoun>

@@ -114,6 +114,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+          <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
           <defName>ControlSublinkImplantSolar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -209,6 +210,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+          <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
           <defName>RemoteRepairerImplantSolar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -288,6 +290,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+          <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
           <defName>MechFormfeederImplantSolar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -378,6 +381,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+          <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
           <defName>RemoteShielderImplantSolar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -460,6 +464,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+          <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
           <defName>RepairProbeImplantSolar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>

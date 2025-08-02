@@ -79,6 +79,7 @@
 						</RecipeDef>
 
 						<HediffDef ParentName="addedPartBionicsRib" Abstract="True" Name="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<comps>
 								<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 									<scaleAdjustment>3.375</scaleAdjustment>
@@ -89,6 +90,7 @@
 						<!-- Medical rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>MedicalRibTenebral</defName>
 							<label>tenebral medical rib</label>
 							<labelNoun>a tenebral medical rib</labelNoun>
@@ -184,6 +186,7 @@
 						<!-- Drugged rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>DruggedRibTenebral</defName>
 							<label>drugged tenebral rib</label>
 							<labelNoun>a drugged tenebral rib</labelNoun>
@@ -279,6 +282,7 @@
 						<!-- Adrenaline rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>AdrenalineRibTenebral</defName>
 							<label>tenebral adrenaline rib</label>
 							<labelNoun>a tenebral adrenaline rib</labelNoun>
@@ -374,6 +378,7 @@
 						<!-- Painkiller rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>PainkillerRibTenebral</defName>
 							<label>tenebral painkiller rib</label>
 							<labelNoun>a tenebral painkiller rib</labelNoun>
@@ -465,6 +470,7 @@
 						<!-- Heater rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>HeaterRibTenebral</defName>
 							<label>tenebral heating rib</label>
 							<description>An installed tenebral heater rib implant.</description>
@@ -556,6 +562,7 @@
 						<!-- Cooler rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>CoolerRibTenebral</defName>
 							<label>tenebral cooling rib</label>
 							<description>An installed tenebral cooler rib implant.</description>
@@ -646,6 +653,7 @@
 						<!-- Coagulator rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>CoagulatorRibTenebral</defName>
 							<label>tenebral coagulator rib</label>
 							<description>An installed tenebral coagulator rib implant.</description>
@@ -734,6 +742,7 @@
 						<!-- Respiration rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>RespirationRibTenebral</defName>
 							<label>tenebral respiration rib</label>
 							<description>An installed tenebral respiration rib implant.</description>
@@ -828,6 +837,7 @@
 						<!-- Wake-up rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsTenebralRib">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>WakeUpRibTenebral</defName>
 							<label>tenebral Crewmate rib</label>
 							<description>An installed tenebral Crewmate rib implant.</description>

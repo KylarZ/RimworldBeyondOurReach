@@ -15,6 +15,7 @@
             <!-- Mindscrew -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>MindscrewSolar</defName>
               <label>solar mindscrew</label>
               <labelNoun>a solar mindscrew</labelNoun>
@@ -81,6 +82,7 @@
             <!-- Drill arm -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>DrillArmSolar</defName>
               <label>solar drill arm</label>
               <labelNoun>a solar drill arm</labelNoun>
@@ -175,6 +177,7 @@
             <!-- Field hand -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>FieldHandSolar</defName>
               <label>solar field hand</label>
               <labelNoun>a solar field hand</labelNoun>
@@ -268,6 +271,7 @@
             <!-- Hand talon -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>HandTalonSolar</defName>
               <label>solar hand talon</label>
               <labelNoun>a solar hand talon</labelNoun>
@@ -362,6 +366,7 @@
             <!-- Elbow blade -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>ElbowBladeSolar</defName>
               <label>solar elbow blade</label>
               <labelNoun>a solarn elbow blade</labelNoun>
@@ -455,6 +460,7 @@
             <!-- Knee spike -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>KneeSpikeSolar</defName>
               <label>solar knee spike</label>
               <labelNoun>a solar knee spike</labelNoun>
@@ -549,6 +555,7 @@
             <!-- venom fangs -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>VenomFangsSolar</defName>
               <label>solar venom fangs</label>
               <labelNoun>a solar set of venom fangs</labelNoun>
@@ -640,6 +647,7 @@
             <!-- venom talon -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>VenomTalonSolar</defName>
               <label>solar venom talon</label>
               <labelNoun>a solar venom talon</labelNoun>
@@ -731,6 +739,7 @@
             <!-- Neurocalculator -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>NeurocalculatorSolar</defName>
               <label>solar neurocalculator</label>
               <labelNoun>a solar neurocalculator</labelNoun>
@@ -824,6 +833,7 @@
             <!-- Learning assistant -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>LearningAssistantSolar</defName>
               <label>solar learning assistant</label>
               <labelNoun>a solar learning assistant</labelNoun>
@@ -911,6 +921,7 @@
             <!-- Gastro-analyzer -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>GastroAnalyzerSolar</defName>
               <label>solar gastro-analyzer</label>
               <labelNoun>a solar gastro-analyzer</labelNoun>
@@ -995,6 +1006,7 @@
             <!-- Immunoenhancer -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>ImmunoenhancerSolar</defName>
               <label>solar immunoenhancer</label>
               <labelNoun>a solarn immunoenhancer</labelNoun>
@@ -1076,6 +1088,7 @@
             <!-- Coagulator -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>CoagulatorSolar</defName>
               <label>solar coagulator</label>
               <labelNoun>a solar coagulator</labelNoun>
@@ -1155,6 +1168,7 @@
             <!-- Healing enhancer -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>HealingEnhancerSolar</defName>
               <label>solar healing enhancer</label>
               <labelNoun>a solar healing enhancer</labelNoun>
@@ -1234,6 +1248,7 @@
             <!-- Toughskin gland -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>ToughskinGlandSolar</defName>
               <label>solar toughskin gland</label>
               <labelNoun>a solar toughskin gland</labelNoun>
@@ -1323,6 +1338,7 @@
             <!-- Armorskin gland -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>ArmorskinGlandSolar</defName>
               <label>solar armorskin gland</label>
               <labelNoun>a solar armorskin gland</labelNoun>
@@ -1412,6 +1428,7 @@
             <!-- Stoneskin gland -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>StoneskinGlandSolar</defName>
               <label>solar stoneskin gland</label>
               <labelNoun>a solar stoneskin gland</labelNoun>
@@ -1502,6 +1519,7 @@
             <!-- Aesthetic shaper -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>AestheticShaperSolar</defName>
               <label>solar aesthetic shaper</label>
               <labelNoun>a solarn aesthetic shaper</labelNoun>
@@ -1584,6 +1602,7 @@
             <!-- Aesthetic nose -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>AestheticNoseSolar</defName>
               <label>solar aesthetic nose</label>
               <labelNoun>a solarn aesthetic nose</labelNoun>
@@ -1669,6 +1688,7 @@
             <!-- Reprocessor stomach -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>ReprocessorStomachSolar</defName>
               <label>solar reprocessor stomach</label>
               <labelNoun>a solar reprocessor stomach</labelNoun>
@@ -1759,6 +1779,7 @@
             <!-- Circadian assistant -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>CircadianAssistantSolar</defName>
               <label>solar circadian assistant</label>
               <labelNoun>a solar circadian assistant</labelNoun>
@@ -1847,6 +1868,7 @@
             <!-- Circadian half-cycler -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>CircadianHalfCyclerSolar</defName>
               <label>solar circadian half-cycler</label>
               <labelNoun>a solar circadian half-cycler</labelNoun>
@@ -1941,6 +1963,7 @@
             <!-- Psychic sensitizer -->
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>PsychicSensitizerSolar</defName>
               <label>solar psychic sensitizer</label>
               <labelNoun>a solar psychic sensitizer</labelNoun>
@@ -2030,6 +2053,7 @@
             </ThoughtDef>
 
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>PsychicHarmonizerSolar</defName>
               <label>solar psychic harmonizer</label>
               <labelNoun>a solar psychic harmonizer</labelNoun>
@@ -2104,6 +2128,7 @@
 
             <!-- Psychic reader -->
             <HediffDef ParentName="BOR_ImplantSolarHediffBase">
+              <defaultLabelColor>(227, 151, 116)</defaultLabelColor>
               <defName>PsychicReaderSolar</defName>
               <label>solar psychic reader</label>
               <labelNoun>a solar psychic reader</labelNoun>

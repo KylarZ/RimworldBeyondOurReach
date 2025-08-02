@@ -3,6 +3,7 @@
 
 	<!-- base for implants -->
 	<HediffDef Abstract="True" ParentName="ImplantHediffBase" Name="BOR_ImplantSolarHediffBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<comps>
 			<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 				<scaleAdjustment>1.5</scaleAdjustment>
@@ -10,6 +11,7 @@
 		</comps>
 	</HediffDef>
 	<HediffDef ParentName="AddedBodyPartBase" Name="BOR_AddedSolarBodyPartBase" Abstract="True">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<comps>
 			<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 				<scaleAdjustment>1.5</scaleAdjustment>
@@ -81,6 +83,7 @@
 	</ThingDef>
 	<!-- Bionic eye -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicEye</defName>
 		<label>solar eye</label>
 		<labelNoun>a solar bionic eye</labelNoun>
@@ -120,7 +123,7 @@
 		<descriptionHyperlinks>
 			<ThingDef>BOR_SolarBionicEye</ThingDef>
 			<HediffDef>BOR_SolarBionicEye</HediffDef>
-		</descriptionHyperlinks>
+			</descriptionHyperlinks>
 		<jobString>Installing solar bionic eye.</jobString>
 		<ingredients>
 			<li>
@@ -153,6 +156,7 @@
 	</RecipeDef>
 	<!-- Bionic arm -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicArm</defName>
 		<label>solar arm</label>
 		<labelNoun>a solar bionic arm</labelNoun>
@@ -241,6 +245,7 @@
 	</RecipeDef>
 	<!-- Bionic leg -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicLeg</defName>
 		<label>solar leg</label>
 		<labelNoun>a solar bionic leg</labelNoun>
@@ -313,6 +318,7 @@
 	</RecipeDef>
 	<!-- Bionic spine -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicSpine</defName>
 		<label>solar spine</label>
 		<labelNoun>a solar bionic spine</labelNoun>
@@ -382,6 +388,7 @@
 	</RecipeDef>
 	<!-- Bionic heart -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicHeart</defName>
 		<label>solar heart</label>
 		<labelNoun>a solar bionic heart</labelNoun>
@@ -448,6 +455,7 @@
 	</RecipeDef>
 	<!-- Bionic stomach -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicStomach</defName>
 		<label>solar stomach</label>
 		<labelNoun>a solar bionic stomach</labelNoun>
@@ -525,6 +533,7 @@
 	</RecipeDef>
 	<!-- Bionic ear -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicEar</defName>
 		<label>solar ear</label>
 		<labelNoun>a solar bionic ear</labelNoun>
@@ -591,6 +600,7 @@
 	</RecipeDef>
 	<!-- Bionic tongue -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicTongue</defName>
 		<label>solar tongue</label>
 		<labelNoun>a solar bionic tongue</labelNoun>
@@ -656,6 +666,7 @@
 	</RecipeDef>
 	<!-- Bionic Jaw -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicJaw</defName>
 		<label>solar jaw</label>
 		<labelNoun>a solar bionic jaw</labelNoun>
@@ -721,6 +732,7 @@
 	</RecipeDef>
 	<!-- Bionic liver -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicLiver</defName>
 		<label>solar liver</label>
 		<labelNoun>a solar bionic liver</labelNoun>
@@ -736,6 +748,7 @@
 		</addedPartProps>
 	</HediffDef>
 	<ThingDef ParentName="SolarBodyPartBionicBase">
+
 		<defName>BOR_SolarBionicLiver</defName>
 		<label>solar liver</label>
 		<description>A highly advanced artificial liver. Made from sunweave and equipped with several forms of toxin filter, plus emergency flush capability in case of total bodily saturation. It is vastly superior to a biological liver in every way.</description>
@@ -787,6 +800,7 @@
 	</RecipeDef>
 	<!-- Bionic lung -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicLung</defName>
 		<label>solar lung</label>
 		<labelNoun>a solar bionic lung</labelNoun>
@@ -853,6 +867,7 @@
 	</RecipeDef>
 	<!-- Bionic kidney -->
 	<HediffDef ParentName="BOR_AddedSolarBodyPartBase">
+		<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 		<defName>BOR_SolarBionicKidney</defName>
 		<label>solar kidney</label>
 		<labelNoun>a solar bionic kidney</labelNoun>

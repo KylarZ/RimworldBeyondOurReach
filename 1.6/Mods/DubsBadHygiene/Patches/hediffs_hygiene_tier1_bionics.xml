@@ -13,6 +13,7 @@
 					<value>
 
 						<HediffDef ParentName="BOR_ImplantSolarHediffBase">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>SolarBladder</defName>
 							<label>solar bladder</label>
 							<labelNoun>a solar bladder</labelNoun>
@@ -127,6 +128,7 @@
 
 
 						<HediffDef ParentName="BOR_ImplantSolarHediffBase">
+							<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 							<defName>SolarHygieneEnhancer</defName>
 							<label>solar hygiene enhancer</label>
 							<labelNoun>a solar hygiene enhancer</labelNoun>

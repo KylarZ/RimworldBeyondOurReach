@@ -15,6 +15,7 @@
             <!-- Mindscrew -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>MindscrewQuasar</defName>
               <label>quasar mindscrew</label>
               <labelNoun>a quasar mindscrew</labelNoun>
@@ -84,6 +85,7 @@
             <!-- Drill arm -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>DrillArmQuasar</defName>
               <label>quasar drill arm</label>
               <labelNoun>a quasar drill arm</labelNoun>
@@ -181,6 +183,7 @@
             <!-- Field hand -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>FieldHandQuasar</defName>
               <label>quasar field hand</label>
               <labelNoun>a quasar field hand</labelNoun>
@@ -277,6 +280,7 @@
             <!-- Hand talon -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>HandTalonQuasar</defName>
               <label>quasar hand talon</label>
               <labelNoun>a quasar hand talon</labelNoun>
@@ -374,6 +378,7 @@
             <!-- Elbow blade -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>ElbowBladeQuasar</defName>
               <label>quasar elbow blade</label>
               <labelNoun>a quasarn elbow blade</labelNoun>
@@ -470,6 +475,7 @@
             <!-- Knee spike -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>KneeSpikeQuasar</defName>
               <label>quasar knee spike</label>
               <labelNoun>a quasar knee spike</labelNoun>
@@ -567,6 +573,7 @@
             <!-- venom fangs -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>VenomFangsQuasar</defName>
               <label>quasar venom fangs</label>
               <labelNoun>a quasar set of venom fangs</labelNoun>
@@ -661,6 +668,7 @@
             <!-- venom talon -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>VenomTalonQuasar</defName>
               <label>quasar venom talon</label>
               <labelNoun>a quasar venom talon</labelNoun>
@@ -753,6 +761,7 @@
             </RecipeDef>
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>NeurocalculatorQuasar</defName>
               <label>quasar neurocalculator</label>
               <labelNoun>a quasar neurocalculator</labelNoun>
@@ -850,6 +859,7 @@
             <!-- Learning assistant -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>LearningAssistantQuasar</defName>
               <label>quasar learning assistant</label>
               <labelNoun>a quasar learning assistant</labelNoun>
@@ -941,6 +951,7 @@
             <!-- Gastro-analyzer -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>GastroAnalyzerQuasar</defName>
               <label>quasar gastro-analyzer</label>
               <labelNoun>a quasar gastro-analyzer</labelNoun>
@@ -1029,6 +1040,7 @@
             <!-- Immunoenhancer -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>ImmunoenhancerQuasar</defName>
               <label>quasar immunoenhancer</label>
               <labelNoun>a quasarn immunoenhancer</labelNoun>
@@ -1114,6 +1126,7 @@
             <!-- Coagulator -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>CoagulatorQuasar</defName>
               <label>quasar coagulator</label>
               <labelNoun>a quasar coagulator</labelNoun>
@@ -1197,6 +1210,7 @@
             <!-- Healing enhancer -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>HealingEnhancerQuasar</defName>
               <label>quasar healing enhancer</label>
               <labelNoun>a quasar healing enhancer</labelNoun>
@@ -1280,6 +1294,7 @@
             <!-- Toughskin gland -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>ToughskinGlandQuasar</defName>
               <label>quasar toughskin gland</label>
               <labelNoun>a quasar toughskin gland</labelNoun>
@@ -1373,6 +1388,7 @@
             <!-- Armorskin gland -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>ArmorskinGlandQuasar</defName>
               <label>quasar armorskin gland</label>
               <labelNoun>a quasar armorskin gland</labelNoun>
@@ -1466,6 +1482,7 @@
             <!-- Stoneskin gland -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>StoneskinGlandQuasar</defName>
               <label>quasar stoneskin gland</label>
               <labelNoun>a quasar stoneskin gland</labelNoun>
@@ -1559,6 +1576,7 @@
             <!-- Aesthetic shaper -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>AestheticShaperQuasar</defName>
               <label>quasar aesthetic shaper</label>
               <labelNoun>a quasarn aesthetic shaper</labelNoun>
@@ -1644,6 +1662,7 @@
             <!-- Aesthetic nose -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>AestheticNoseQuasar</defName>
               <label>quasar aesthetic nose</label>
               <labelNoun>a quasarn aesthetic nose</labelNoun>
@@ -1732,6 +1751,7 @@
             <!-- Reprocessor stomach -->
 
             <HediffDef ParentName="AddedBodyPartBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>ReprocessorStomachQuasar</defName>
               <label>quasar reprocessor stomach</label>
               <labelNoun>a quasar reprocessor stomach</labelNoun>
@@ -1825,6 +1845,7 @@
             <!-- Circadian assistant -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>CircadianAssistantQuasar</defName>
               <label>quasar circadian assistant</label>
               <labelNoun>a quasar circadian assistant</labelNoun>
@@ -1916,6 +1937,7 @@
             <!-- Circadian half-cycler -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>CircadianHalfCyclerQuasar</defName>
               <label>quasar circadian half-cycler</label>
               <labelNoun>a quasar circadian half-cycler</labelNoun>
@@ -2011,6 +2033,7 @@
             </RecipeDef>
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>PsychicSensitizerQuasar</defName>
               <label>quasar psychic sensitizer</label>
               <labelNoun>a quasar psychic sensitizer</labelNoun>
@@ -2104,6 +2127,7 @@
             </ThoughtDef>
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>PsychicHarmonizerQuasar</defName>
               <label>quasar psychic harmonizer</label>
               <labelNoun>a quasar psychic harmonizer</labelNoun>
@@ -2181,6 +2205,7 @@
             <!-- Psychic reader -->
 
             <HediffDef ParentName="BOR_ImplantQuasarHediffBase">
+              <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
               <defName>PsychicReaderQuasar</defName>
               <label>quasar psychic reader</label>
               <labelNoun>a quasar psychic reader</labelNoun>

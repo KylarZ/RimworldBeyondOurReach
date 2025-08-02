@@ -114,6 +114,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+          <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
           <defName>ControlSublinkImplantTenebral</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -209,6 +210,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+          <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
           <defName>RemoteRepairerImplantTenebral</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -288,6 +290,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+          <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
           <defName>MechFormfeederImplantTenebral</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -378,6 +381,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+          <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
           <defName>RemoteShielderImplantTenebral</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -460,6 +464,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+          <defaultLabelColor>(128, 0, 0)</defaultLabelColor>
           <defName>RepairProbeImplantTenebral</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>

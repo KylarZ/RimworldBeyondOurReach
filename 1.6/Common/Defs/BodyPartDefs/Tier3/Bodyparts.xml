@@ -2,6 +2,7 @@
 <Defs>
 	<!-- base for implants -->
 	<HediffDef Abstract="True" ParentName="ImplantHediffBase" Name="BOR_ImplantTenebralHediffBase">
+	<defaultLabelColor>(128, 0, 0)</defaultLabelColor>		
 		<comps>
 			<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 				<scaleAdjustment>3.375</scaleAdjustment>
@@ -9,7 +10,8 @@
 		</comps>
 	</HediffDef>
 	<HediffDef ParentName="AddedBodyPartBase" Name="BOR_AddedTenebralBodyPartBase" Abstract="True">
-		<comps>
+			<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
+			<comps>
 			<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 				<scaleAdjustment>3.375</scaleAdjustment>
 			</li>
@@ -127,6 +129,7 @@
 	</ThingDef>
 	<!-- Bionic eye -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+	<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicEye</defName>
 		<label>tenebral eye</label>
 		<labelNoun>a Tenebral bionic eye</labelNoun>
@@ -251,6 +254,7 @@
 	</RecipeDef>
 	<!-- Bionic leg -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicLeg</defName>
 		<label>tenebral leg</label>
 		<labelNoun>a Tenebral bionic leg</labelNoun>
@@ -306,6 +310,7 @@
 	</RecipeDef>
 	<!-- Bionic spine -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicSpine</defName>
 		<label>tenebral spine</label>
 		<labelNoun>a Tenebral bionic spine</labelNoun>
@@ -360,6 +365,7 @@
 	</RecipeDef>
 	<!-- Bionic heart -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicHeart</defName>
 		<label>tenebral heart</label>
 		<labelNoun>a Tenebral bionic heart</labelNoun>
@@ -414,6 +420,7 @@
 	</RecipeDef>
 	<!-- Bionic stomach -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicStomach</defName>
 		<label>tenebral stomach</label>
 		<labelNoun>a Tenebral bionic stomach</labelNoun>
@@ -476,6 +483,7 @@
 	</RecipeDef>
 	<!-- Bionic ear -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicEar</defName>
 		<label>tenebral ear</label>
 		<labelNoun>a Tenebral bionic ear</labelNoun>
@@ -530,6 +538,7 @@
 	</RecipeDef>
 	<!-- Bionic tongue -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicTongue</defName>
 		<label>tenebral tongue</label>
 		<labelNoun>a Tenebral bionic tongue</labelNoun>
@@ -583,6 +592,7 @@
 	</RecipeDef>
 	<!-- Bionic Jaw -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicJaw</defName>
 		<label>tenebral jaw</label>
 		<labelNoun>a Tenebral bionic jaw</labelNoun>
@@ -634,6 +644,7 @@
 	
 	<!-- Bionic kidney -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicKidney</defName>
 		<label>tenebral kidney</label>
 		<labelNoun>a Tenebral bionic kidney</labelNoun>
@@ -688,6 +699,7 @@
 	</RecipeDef>
 	<!-- Bionic liver -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicLiver</defName>
 		<label>tenebral liver</label>
 		<labelNoun>a Tenebral bionic liver</labelNoun>
@@ -742,6 +754,7 @@
 	</RecipeDef>
 	<!-- Bionic lung -->
 	<HediffDef ParentName="BOR_AddedTenebralBodyPartBase">
+		<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 		<defName>BOR_TenebralBionicLung</defName>
 		<label>tenebral lung</label>
 		<labelNoun>a Tenebral bionic lung</labelNoun>

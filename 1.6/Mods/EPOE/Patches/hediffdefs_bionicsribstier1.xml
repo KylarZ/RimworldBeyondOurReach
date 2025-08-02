@@ -77,6 +77,7 @@
 						<!-- Medical rib -->
 
 						<HediffDef ParentName="addedPartBionicsRib" Abstract="True" Name="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<comps>
 								<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 									<scaleAdjustment>1.5</scaleAdjustment>
@@ -84,6 +85,7 @@
 							</comps>
 						</HediffDef>
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>MedicalRibSolar</defName>
 							<label>solar medical rib</label>
 							<labelNoun>a solar medical rib</labelNoun>
@@ -176,6 +178,7 @@
 						<!-- Drugged rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>DruggedRibSolar</defName>
 							<label>drugged solar rib</label>
 							<labelNoun>a drugged solar rib</labelNoun>
@@ -268,6 +271,7 @@
 						<!-- Adrenaline rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>AdrenalineRibSolar</defName>
 							<label>solar adrenaline rib</label>
 							<labelNoun>a solar adrenaline rib</labelNoun>
@@ -360,6 +364,7 @@
 						<!-- Painkiller rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>PainkillerRibSolar</defName>
 							<label>solar painkiller rib</label>
 							<labelNoun>a solar painkiller rib</labelNoun>
@@ -448,6 +453,7 @@
 						<!-- Heater rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>HeaterRibSolar</defName>
 							<label>solar heating rib</label>
 							<description>An installed solar heater rib implant.</description>
@@ -536,6 +542,7 @@
 						<!-- Cooler rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>CoolerRibSolar</defName>
 							<label>solar cooling rib</label>
 							<description>An installed solar cooler rib implant.</description>
@@ -625,6 +632,7 @@
 						<!-- Coagulator rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>CoagulatorRibSolar</defName>
 							<label>solar coagulator rib</label>
 							<description>An installed solar coagulator rib implant.</description>
@@ -711,6 +719,7 @@
 						<!-- Respiration rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>RespirationRibSolar</defName>
 							<label>solar respiration rib</label>
 							<description>An installed solar respiration rib implant.</description>
@@ -804,6 +813,7 @@
 						<!-- Wake-up rib -->
 
 						<HediffDef ParentName="BOR_addedPartBionicsSolarRib">
+							<defaultLabelColor>(227, 151, 116)</defaultLabelColor>
 							<defName>WakeUpRibSolar</defName>
 							<label>solar STIM-IV rib</label>
 							<description>An installed solar STIM-IV rib implant.</description>

@@ -115,6 +115,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+          <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
           <defName>ControlSublinkImplantQuasar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -210,6 +211,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+          <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
           <defName>RemoteRepairerImplantQuasar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -289,6 +291,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+          <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
           <defName>MechFormfeederImplantQuasar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -379,6 +382,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+          <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
           <defName>RemoteShielderImplantQuasar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>
@@ -461,6 +465,7 @@
         </ThingDef>
 
         <HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+          <defaultLabelColor>(106, 123, 206)</defaultLabelColor>
           <defName>RepairProbeImplantQuasar</defName>
           <hediffClass>Hediff_Level</hediffClass>
           <descriptionHyperlinks>

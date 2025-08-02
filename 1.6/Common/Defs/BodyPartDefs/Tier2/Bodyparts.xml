@@ -4,6 +4,7 @@
 
 	<!-- base for implants -->
 	<HediffDef Abstract="True" ParentName="ImplantHediffBase" Name="BOR_ImplantQuasarHediffBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<comps>
 			<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 				<scaleAdjustment>2.25</scaleAdjustment>
@@ -11,6 +12,7 @@
 		</comps>
 	</HediffDef>
 	<HediffDef ParentName="AddedBodyPartBase" Name="BOR_AddedQuasarBodyPartBase" Abstract="True">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<comps>
 			<li MayRequire="v1024.ebframework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
 				<scaleAdjustment>2.25</scaleAdjustment>
@@ -83,6 +85,7 @@
 	</ThingDef>
 	<!-- Bionic eye -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicEye</defName>
 		<label>quasar eye</label>
 		<labelNoun>a quasar bionic eye</labelNoun>
@@ -155,6 +158,7 @@
 	</RecipeDef>
 	<!-- Bionic arm -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicArm</defName>
 		<label>quasar arm</label>
 		<labelNoun>a quasar bionic arm</labelNoun>
@@ -243,6 +247,7 @@
 	</RecipeDef>
 	<!-- Bionic leg -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicLeg</defName>
 		<label>quasar leg</label>
 		<labelNoun>a quasar bionic leg</labelNoun>
@@ -315,6 +320,7 @@
 	</RecipeDef>
 	<!-- Bionic spine -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicSpine</defName>
 		<label>quasar spine</label>
 		<labelNoun>a quasar bionic spine</labelNoun>
@@ -384,6 +390,7 @@
 	</RecipeDef>
 	<!-- Bionic heart -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicHeart</defName>
 		<label>quasar heart</label>
 		<labelNoun>a quasar bionic heart</labelNoun>
@@ -450,6 +457,7 @@
 	</RecipeDef>
 	<!-- Bionic stomach -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicStomach</defName>
 		<label>quasar stomach</label>
 		<labelNoun>a quasar bionic stomach</labelNoun>
@@ -527,6 +535,7 @@
 	</RecipeDef>
 	<!-- Bionic ear -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicEar</defName>
 		<label>quasar ear</label>
 		<labelNoun>a quasar bionic ear</labelNoun>
@@ -593,6 +602,7 @@
 	</RecipeDef>
 	<!-- Bionic tongue -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicTongue</defName>
 		<label>quasar tongue</label>
 		<labelNoun>a quasar bionic tongue</labelNoun>
@@ -658,6 +668,7 @@
 	</RecipeDef>
 	<!-- Bionic Jaw -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicJaw</defName>
 		<label>quasar jaw</label>
 		<labelNoun>a quasar bionic jaw</labelNoun>
@@ -723,6 +734,7 @@
 	</RecipeDef>
 	<!-- Bionic liver -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicLiver</defName>
 		<label>quasar liver</label>
 		<labelNoun>a quasar bionic liver</labelNoun>
@@ -789,6 +801,7 @@
 	</RecipeDef>
 	<!-- Bionic lung -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicLung</defName>
 		<label>quasar lung</label>
 		<labelNoun>a quasar bionic lung</labelNoun>
@@ -855,6 +868,7 @@
 	</RecipeDef>
 	<!-- Bionic kidney -->
 	<HediffDef ParentName="BOR_AddedQuasarBodyPartBase">
+		<defaultLabelColor>(106, 123, 206)</defaultLabelColor>
 		<defName>BOR_QuasarBionicKidney</defName>
 		<label>quasar kidney</label>
 		<labelNoun>a quasar bionic kidney</labelNoun>

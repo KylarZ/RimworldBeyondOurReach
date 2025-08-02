@@ -13,6 +13,7 @@
 					<value>
 
 						<HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>TenebralBladder</defName>
 							<label>tenebral bladder</label>
 							<labelNoun>a tenebral bladder</labelNoun>
@@ -126,6 +127,7 @@
 
 
 						<HediffDef ParentName="BOR_ImplantTenebralHediffBase">
+							<defaultLabelColor>(128, 0, 0)</defaultLabelColor>
 							<defName>TenebralHygieneEnhancer</defName>
 							<label>tenebral hygiene enhancer</label>
 							<labelNoun>a tenebral hygiene enhancer</labelNoun>
