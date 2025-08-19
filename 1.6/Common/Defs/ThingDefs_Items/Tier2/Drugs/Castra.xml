@@ -89,6 +89,7 @@
           <li>ToxicBuildup</li>
           <li>WoundInfection</li>
           <li>Carcinoma</li>
+		  <li>OrganDecay</li>
         </makeImmuneTo>
       </li>
     </stages>
